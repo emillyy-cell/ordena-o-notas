@@ -1,0 +1,5 @@
+# Executáveis gerados na compilação
+*.exe
+*.o
+*.out
+ordena_notas

@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34082801/README.md)
-# ordena-o-notas# Ordenação de Notas da Turma
+# Ordenação de Notas da Turma
 
 Trabalho da disciplina de **Algoritmos e Pensamento Computacional** (UDF) sobre aplicação prática dos algoritmos de ordenação **Bubble Sort** e **Quick Sort** em linguagem C.
 
@@ -34,10 +33,9 @@ Com a lista ordenada por nota, isso fica visível na hora: os alunos de recupera
 
 ### Online (sem instalar nada)
 
-Link do OnlineGDB: **[colocar o link aqui](#)**
-
-1. Abra o link e clique em **Run**.
-2. Digite a opção do menu no terminal que aparece embaixo.
+1. Acesse o [OnlineGDB](https://www.onlinegdb.com/) e selecione a linguagem **C**.
+2. Cole o conteúdo de `ordena_notas.c` e clique em **Run**.
+3. Digite a opção do menu no terminal que aparece embaixo.
 
 ### No computador (com GCC)
 
@@ -102,9 +100,10 @@ Com só 12 alunos o Quick Sort já fez menos da metade das comparações. Quanto
 ```
 ordena-o-notas/
 ├── ordena_notas.c   # código-fonte com os dois algoritmos
-└── README.md        # este arquivo
+├── README.md        # este arquivo
+└── .gitignore       # ignora os executáveis gerados
 ```
 
-## Autor
+## Autora
 
-Rian do Nascimento Ribeiro, Engenharia de Software, UDF
+Emilly Lorrany Alves dos Santos, Análise e Desenvolvimento de Sistemas, UDF
